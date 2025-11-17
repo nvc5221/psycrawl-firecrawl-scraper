@@ -14,6 +14,18 @@ This system has been **extensively stress-tested** in production environments:
 - **Overnight Batch Jobs**: Unattended 8-12 hour scraping operations
 - **100% Reliability**: Checkpoint/resume system never lost progress
 
+## 💻 Development Environment
+
+This system was developed and tested using:
+
+- **Primary Interface**: [Claude Code](https://code.claude.ai/) - Anthropic's official VS Code extension
+- **IDE**: Cursor / Visual Studio Code
+- **Workflow**: AI-assisted development with Claude Code as the primary interface for code generation, testing, and debugging
+- **Python Version**: 3.7+
+- **Testing Approach**: Iterative testing with real-world scraping operations
+
+**Note for Your Team**: This entire system was built using Claude Code in VS Code/Cursor, making it easy to extend and modify with AI assistance. The code is well-documented and structured for AI-assisted development workflows.
+
 ## 💡 What Can Firecrawl API v2.60 Do?
 
 Firecrawl API v2.60 is a powerful web scraping API that can:
